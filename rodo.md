@@ -9,7 +9,7 @@
 
 - **Nazwa:** Babiuchdesign – Babiuch Rafał
 - **E-mail:** babiuchdesign@gmail.com
-- **Forma działalności:** jednoosobowa działalność gospodarcza zarejestrowana w Polsce
+- **Status:** osoba fizyczna (prywatny deweloper)
 
 Administrator nie wyznaczył Inspektora Ochrony Danych (IOD), gdyż nie jest do tego zobligowany na podstawie **art. 37 RODO** — brak przetwarzania danych na dużą skalę ani szczególnych kategorii danych jako działalności głównej. Wszelkie zapytania w sprawach ochrony danych kieruj na adres: babiuchdesign@gmail.com.
 
@@ -25,7 +25,7 @@ Administrator nie wyznaczył Inspektora Ochrony Danych (IOD), gdyż nie jest do 
 | Powiadomienia lokalne o pielęgnacji roślin | art. 6 ust. 1 lit. a RODO – zgoda na powiadomienia |
 | Obsługa płatności i subskrypcji Premium | art. 6 ust. 1 lit. b RODO – wykonanie umowy zakupu |
 | Bezpieczeństwo i stabilność techniczna (logi, diagnostyka) | art. 6 ust. 1 lit. f RODO – prawnie uzasadniony interes Administratora |
-| Przechowywanie danych po rozwiązaniu umowy (subskrypcja) | art. 6 ust. 1 lit. c RODO – wypełnienie obowiązku prawnego (ustawa o rachunkowości) |
+| Przechowywanie danych po rozwiązaniu umowy w zakresie zakupów | art. 6 ust. 1 lit. f RODO – prawnie uzasadniony interes (obrona przed roszczeniami, art. 118 k.c.) |
 
 ---
 
@@ -62,7 +62,7 @@ Na podstawie umów powierzenia przetwarzania danych (DPA) dane przekazywane są 
 |---|---|
 | Dane konta, kolekcja roślin, zdjęcia | Przez cały okres aktywności konta. Usunięcie konta = natychmiastowe, nieodwracalne usunięcie z serwerów. |
 | Dane techniczne i logi diagnostyczne | 90 dni od daty wygenerowania. |
-| Status subskrypcji Premium | Czas aktywności konta + 5 lat po wygaśnięciu (art. 74 ustawy z dnia 29.09.1994 r. o rachunkowości). |
+| Status subskrypcji Premium | Czas aktywności konta; dane dot. zakupów przechowywane przez 5 lat od zakupu (art. 118 k.c. – przedawnienie roszczeń). |
 
 ---
 

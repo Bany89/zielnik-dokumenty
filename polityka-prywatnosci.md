@@ -10,7 +10,7 @@ Administratorem Twoich danych osobowych jest:
 
 - **Nazwa:** Babiuchdesign – Babiuch Rafał
 - **E-mail:** babiuchdesign@gmail.com
-- **Forma działalności:** jednoosobowa działalność gospodarcza zarejestrowana w Polsce
+- **Status:** osoba fizyczna (prywatny deweloper)
 
 Administrator zobowiązuje się do udzielenia odpowiedzi na zapytania dotyczące danych osobowych w terminie nie dłuższym niż **30 dni** od daty otrzymania zgłoszenia (art. 12 ust. 3 RODO). Przysługuje Ci również prawo złożenia skargi do Prezesa UODO, ul. Stawki 2, 00-193 Warszawa, [www.uodo.gov.pl](https://www.uodo.gov.pl).
 
@@ -107,7 +107,7 @@ Na podstawie **Standardowych Klauzul Umownych** (SCC, decyzja 2021/914) oraz **R
 | Dane konta i kolekcji roślin | Przez cały okres aktywności konta. Usunięcie konta = natychmiastowe usunięcie z serwerów. |
 | Zdjęcia roślin | Do usunięcia przez Użytkownika lub usunięcia konta. |
 | Dane diagnostyczne i logi | 90 dni od daty wygenerowania. |
-| Status subskrypcji Premium | Czas aktywności konta + 5 lat po wygaśnięciu (obowiązki podatkowe, art. 74 ustawy o rachunkowości). |
+| Status subskrypcji Premium | Czas aktywności konta; dane dot. zakupów przechowywane przez 5 lat od zakupu (wymogi art. 118 Kodeksu cywilnego – przedawnienie roszczeń). |
 
 ---
 

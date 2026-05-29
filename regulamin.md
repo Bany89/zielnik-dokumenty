@@ -6,7 +6,7 @@
 
 ## 1. Postanowienia ogólne
 
-Niniejszy Regulamin Usługi (dalej: „Regulamin") określa zasady i warunki korzystania z aplikacji mobilnej **„Plantdex"** (dalej: „Aplikacja"), udostępnianej przez **Babiuchdesign – Babiuch Rafał** (dalej: „Usługodawca"), kontakt: babiuchdesign@gmail.com.
+Niniejszy Regulamin Usługi (dalej: „Regulamin") określa zasady i warunki korzystania z aplikacji mobilnej **„Plantdex"** (dalej: „Aplikacja"), udostępnianej przez **Babiuch Rafał** (dalej: „Usługodawca"), działającego jako osoba fizyczna, kontakt: babiuchdesign@gmail.com.
 
 Instalując lub uruchamiając Aplikację, Użytkownik potwierdza, że zapoznał się z niniejszym Regulaminem i akceptuje jego postanowienia w całości. Jeśli Użytkownik nie akceptuje Regulaminu, powinien niezwłocznie usunąć Aplikację z urządzenia.
 
